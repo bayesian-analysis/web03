@@ -7,5 +7,5 @@ import java.util.List;
 public interface UserDao {
     public List<User> findAll();
     public User login(User user);
-    //新内容2
+    //新内容222222
 }
