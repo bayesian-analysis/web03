@@ -8,4 +8,5 @@ public interface UserDao {
     public List<User> findAll();
     public User login(User user);
     //新内容222222
+    //Master
 }
